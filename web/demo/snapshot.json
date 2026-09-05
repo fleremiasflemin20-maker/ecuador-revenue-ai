@@ -1,0 +1,2722 @@
+{
+  "generated_at": "2026-09-05",
+  "hotels": [
+    {
+      "id": "puerto-lopez-mar",
+      "name": "Hostería Mirador del Pacífico",
+      "city": "Puerto López",
+      "region": "coast",
+      "base_price": 65.0,
+      "pricing": [
+        {
+          "date": "2026-09-05",
+          "rule_based_price": 83.06,
+          "optimal_price": 102.15,
+          "projected_occupancy": 0.591,
+          "demand_score": 78,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-06",
+          "rule_based_price": 75.26,
+          "optimal_price": 92.53,
+          "projected_occupancy": 0.535,
+          "demand_score": 66,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-07",
+          "rule_based_price": 72.01,
+          "optimal_price": 88.53,
+          "projected_occupancy": 0.512,
+          "demand_score": 61,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-08",
+          "rule_based_price": 72.01,
+          "optimal_price": 88.53,
+          "projected_occupancy": 0.512,
+          "demand_score": 61,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-09",
+          "rule_based_price": 72.01,
+          "optimal_price": 88.53,
+          "projected_occupancy": 0.512,
+          "demand_score": 61,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-10",
+          "rule_based_price": 75.26,
+          "optimal_price": 92.53,
+          "projected_occupancy": 0.535,
+          "demand_score": 66,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-11",
+          "rule_based_price": 80.46,
+          "optimal_price": 98.95,
+          "projected_occupancy": 0.572,
+          "demand_score": 74,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Viernes: arranque de fin de semana",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-12",
+          "rule_based_price": 83.06,
+          "optimal_price": 102.15,
+          "projected_occupancy": 0.591,
+          "demand_score": 78,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-13",
+          "rule_based_price": 75.26,
+          "optimal_price": 92.53,
+          "projected_occupancy": 0.535,
+          "demand_score": 66,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-14",
+          "rule_based_price": 72.01,
+          "optimal_price": 88.53,
+          "projected_occupancy": 0.512,
+          "demand_score": 61,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-15",
+          "rule_based_price": 72.01,
+          "optimal_price": 88.53,
+          "projected_occupancy": 0.512,
+          "demand_score": 61,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-16",
+          "rule_based_price": 72.01,
+          "optimal_price": 88.53,
+          "projected_occupancy": 0.512,
+          "demand_score": 61,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-17",
+          "rule_based_price": 75.26,
+          "optimal_price": 92.53,
+          "projected_occupancy": 0.535,
+          "demand_score": 66,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-18",
+          "rule_based_price": 80.46,
+          "optimal_price": 98.95,
+          "projected_occupancy": 0.572,
+          "demand_score": 74,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Viernes: arranque de fin de semana",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-19",
+          "rule_based_price": 83.06,
+          "optimal_price": 102.15,
+          "projected_occupancy": 0.591,
+          "demand_score": 78,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-20",
+          "rule_based_price": 75.26,
+          "optimal_price": 92.53,
+          "projected_occupancy": 0.535,
+          "demand_score": 66,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-21",
+          "rule_based_price": 72.01,
+          "optimal_price": 88.53,
+          "projected_occupancy": 0.512,
+          "demand_score": 61,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-22",
+          "rule_based_price": 72.01,
+          "optimal_price": 88.53,
+          "projected_occupancy": 0.512,
+          "demand_score": 61,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-23",
+          "rule_based_price": 72.01,
+          "optimal_price": 88.53,
+          "projected_occupancy": 0.512,
+          "demand_score": 61,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-24",
+          "rule_based_price": 75.26,
+          "optimal_price": 92.53,
+          "projected_occupancy": 0.535,
+          "demand_score": 66,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-25",
+          "rule_based_price": 80.46,
+          "optimal_price": 98.95,
+          "projected_occupancy": 0.572,
+          "demand_score": 74,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Viernes: arranque de fin de semana",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-26",
+          "rule_based_price": 83.06,
+          "optimal_price": 102.15,
+          "projected_occupancy": 0.591,
+          "demand_score": 78,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-27",
+          "rule_based_price": 75.26,
+          "optimal_price": 92.53,
+          "projected_occupancy": 0.535,
+          "demand_score": 66,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-28",
+          "rule_based_price": 72.01,
+          "optimal_price": 88.53,
+          "projected_occupancy": 0.512,
+          "demand_score": 61,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-29",
+          "rule_based_price": 72.01,
+          "optimal_price": 88.53,
+          "projected_occupancy": 0.512,
+          "demand_score": 61,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-30",
+          "rule_based_price": 72.01,
+          "optimal_price": 88.53,
+          "projected_occupancy": 0.512,
+          "demand_score": 61,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-01",
+          "rule_based_price": 62.26,
+          "optimal_price": 76.5,
+          "projected_occupancy": 0.442,
+          "demand_score": 46,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-02",
+          "rule_based_price": 67.46,
+          "optimal_price": 82.91,
+          "projected_occupancy": 0.48,
+          "demand_score": 54,
+          "explanation": [
+            "Viernes: arranque de fin de semana",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-03",
+          "rule_based_price": 70.06,
+          "optimal_price": 86.12,
+          "projected_occupancy": 0.498,
+          "demand_score": 58,
+          "explanation": [
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-04",
+          "rule_based_price": 62.26,
+          "optimal_price": 76.5,
+          "projected_occupancy": 0.442,
+          "demand_score": 46,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-05",
+          "rule_based_price": 59.01,
+          "optimal_price": 72.49,
+          "projected_occupancy": 0.419,
+          "demand_score": 41,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-06",
+          "rule_based_price": 59.01,
+          "optimal_price": 72.49,
+          "projected_occupancy": 0.419,
+          "demand_score": 41,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-07",
+          "rule_based_price": 59.01,
+          "optimal_price": 72.49,
+          "projected_occupancy": 0.419,
+          "demand_score": 41,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-08",
+          "rule_based_price": 68.76,
+          "optimal_price": 84.52,
+          "projected_occupancy": 0.489,
+          "demand_score": 56,
+          "explanation": [
+            "Fin de semana largo por feriado cercano",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-09",
+          "rule_based_price": 83.71,
+          "optimal_price": 102.95,
+          "projected_occupancy": 0.595,
+          "demand_score": 79,
+          "explanation": [
+            "Feriado nacional: Independencia de Guayaquil",
+            "Viernes: arranque de fin de semana",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-10",
+          "rule_based_price": 76.56,
+          "optimal_price": 94.14,
+          "projected_occupancy": 0.544,
+          "demand_score": 68,
+          "explanation": [
+            "Fin de semana largo por feriado cercano",
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-11",
+          "rule_based_price": 62.26,
+          "optimal_price": 76.5,
+          "projected_occupancy": 0.442,
+          "demand_score": 46,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-12",
+          "rule_based_price": 59.01,
+          "optimal_price": 72.49,
+          "projected_occupancy": 0.419,
+          "demand_score": 41,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-13",
+          "rule_based_price": 59.01,
+          "optimal_price": 72.49,
+          "projected_occupancy": 0.419,
+          "demand_score": 41,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-14",
+          "rule_based_price": 59.01,
+          "optimal_price": 72.49,
+          "projected_occupancy": 0.419,
+          "demand_score": 41,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-15",
+          "rule_based_price": 62.26,
+          "optimal_price": 76.5,
+          "projected_occupancy": 0.442,
+          "demand_score": 46,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-16",
+          "rule_based_price": 67.46,
+          "optimal_price": 82.91,
+          "projected_occupancy": 0.48,
+          "demand_score": 54,
+          "explanation": [
+            "Viernes: arranque de fin de semana",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-17",
+          "rule_based_price": 70.06,
+          "optimal_price": 86.12,
+          "projected_occupancy": 0.498,
+          "demand_score": 58,
+          "explanation": [
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-18",
+          "rule_based_price": 62.26,
+          "optimal_price": 76.5,
+          "projected_occupancy": 0.442,
+          "demand_score": 46,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-19",
+          "rule_based_price": 59.01,
+          "optimal_price": 72.49,
+          "projected_occupancy": 0.419,
+          "demand_score": 41,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "galapagos-ayora",
+      "name": "Galápagos Lava Lodge",
+      "city": "Puerto Ayora",
+      "region": "insular",
+      "base_price": 180.0,
+      "pricing": [
+        {
+          "date": "2026-09-05",
+          "rule_based_price": 246.8,
+          "optimal_price": 319.56,
+          "projected_occupancy": 0.617,
+          "demand_score": 87,
+          "explanation": [
+            "Temporada alta Galápagos",
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-06",
+          "rule_based_price": 225.2,
+          "optimal_price": 291.37,
+          "projected_occupancy": 0.562,
+          "demand_score": 75,
+          "explanation": [
+            "Temporada alta Galápagos",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-07",
+          "rule_based_price": 216.2,
+          "optimal_price": 279.62,
+          "projected_occupancy": 0.54,
+          "demand_score": 70,
+          "explanation": [
+            "Temporada alta Galápagos",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-08",
+          "rule_based_price": 216.2,
+          "optimal_price": 279.62,
+          "projected_occupancy": 0.54,
+          "demand_score": 70,
+          "explanation": [
+            "Temporada alta Galápagos",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-09",
+          "rule_based_price": 216.2,
+          "optimal_price": 279.62,
+          "projected_occupancy": 0.54,
+          "demand_score": 70,
+          "explanation": [
+            "Temporada alta Galápagos",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-10",
+          "rule_based_price": 225.2,
+          "optimal_price": 291.37,
+          "projected_occupancy": 0.562,
+          "demand_score": 75,
+          "explanation": [
+            "Temporada alta Galápagos",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-11",
+          "rule_based_price": 239.6,
+          "optimal_price": 310.16,
+          "projected_occupancy": 0.598,
+          "demand_score": 83,
+          "explanation": [
+            "Temporada alta Galápagos",
+            "Viernes: arranque de fin de semana",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-12",
+          "rule_based_price": 246.8,
+          "optimal_price": 319.56,
+          "projected_occupancy": 0.617,
+          "demand_score": 87,
+          "explanation": [
+            "Temporada alta Galápagos",
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-13",
+          "rule_based_price": 225.2,
+          "optimal_price": 291.37,
+          "projected_occupancy": 0.562,
+          "demand_score": 75,
+          "explanation": [
+            "Temporada alta Galápagos",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-14",
+          "rule_based_price": 216.2,
+          "optimal_price": 279.62,
+          "projected_occupancy": 0.54,
+          "demand_score": 70,
+          "explanation": [
+            "Temporada alta Galápagos",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-15",
+          "rule_based_price": 216.2,
+          "optimal_price": 279.62,
+          "projected_occupancy": 0.54,
+          "demand_score": 70,
+          "explanation": [
+            "Temporada alta Galápagos",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-16",
+          "rule_based_price": 183.8,
+          "optimal_price": 237.34,
+          "projected_occupancy": 0.458,
+          "demand_score": 52,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-17",
+          "rule_based_price": 192.8,
+          "optimal_price": 249.09,
+          "projected_occupancy": 0.481,
+          "demand_score": 57,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-18",
+          "rule_based_price": 207.2,
+          "optimal_price": 267.88,
+          "projected_occupancy": 0.517,
+          "demand_score": 65,
+          "explanation": [
+            "Viernes: arranque de fin de semana",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-19",
+          "rule_based_price": 214.4,
+          "optimal_price": 277.28,
+          "projected_occupancy": 0.535,
+          "demand_score": 69,
+          "explanation": [
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-20",
+          "rule_based_price": 192.8,
+          "optimal_price": 249.09,
+          "projected_occupancy": 0.481,
+          "demand_score": 57,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-21",
+          "rule_based_price": 183.8,
+          "optimal_price": 237.34,
+          "projected_occupancy": 0.458,
+          "demand_score": 52,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-22",
+          "rule_based_price": 183.8,
+          "optimal_price": 237.34,
+          "projected_occupancy": 0.458,
+          "demand_score": 52,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-23",
+          "rule_based_price": 183.8,
+          "optimal_price": 237.34,
+          "projected_occupancy": 0.458,
+          "demand_score": 52,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-24",
+          "rule_based_price": 192.8,
+          "optimal_price": 249.09,
+          "projected_occupancy": 0.481,
+          "demand_score": 57,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-25",
+          "rule_based_price": 207.2,
+          "optimal_price": 267.88,
+          "projected_occupancy": 0.517,
+          "demand_score": 65,
+          "explanation": [
+            "Viernes: arranque de fin de semana",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-26",
+          "rule_based_price": 214.4,
+          "optimal_price": 277.28,
+          "projected_occupancy": 0.535,
+          "demand_score": 69,
+          "explanation": [
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-27",
+          "rule_based_price": 192.8,
+          "optimal_price": 249.09,
+          "projected_occupancy": 0.481,
+          "demand_score": 57,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-28",
+          "rule_based_price": 183.8,
+          "optimal_price": 237.34,
+          "projected_occupancy": 0.458,
+          "demand_score": 52,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-29",
+          "rule_based_price": 183.8,
+          "optimal_price": 237.34,
+          "projected_occupancy": 0.458,
+          "demand_score": 52,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-30",
+          "rule_based_price": 183.8,
+          "optimal_price": 237.34,
+          "projected_occupancy": 0.458,
+          "demand_score": 52,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-01",
+          "rule_based_price": 192.8,
+          "optimal_price": 249.09,
+          "projected_occupancy": 0.481,
+          "demand_score": 57,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-02",
+          "rule_based_price": 207.2,
+          "optimal_price": 267.88,
+          "projected_occupancy": 0.517,
+          "demand_score": 65,
+          "explanation": [
+            "Viernes: arranque de fin de semana",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-03",
+          "rule_based_price": 214.4,
+          "optimal_price": 277.28,
+          "projected_occupancy": 0.535,
+          "demand_score": 69,
+          "explanation": [
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-04",
+          "rule_based_price": 192.8,
+          "optimal_price": 249.09,
+          "projected_occupancy": 0.481,
+          "demand_score": 57,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-05",
+          "rule_based_price": 183.8,
+          "optimal_price": 237.34,
+          "projected_occupancy": 0.458,
+          "demand_score": 52,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-06",
+          "rule_based_price": 183.8,
+          "optimal_price": 237.34,
+          "projected_occupancy": 0.458,
+          "demand_score": 52,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-07",
+          "rule_based_price": 183.8,
+          "optimal_price": 237.34,
+          "projected_occupancy": 0.458,
+          "demand_score": 52,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-08",
+          "rule_based_price": 210.8,
+          "optimal_price": 272.58,
+          "projected_occupancy": 0.526,
+          "demand_score": 67,
+          "explanation": [
+            "Fin de semana largo por feriado cercano",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-09",
+          "rule_based_price": 252.2,
+          "optimal_price": 326.61,
+          "projected_occupancy": 0.63,
+          "demand_score": 90,
+          "explanation": [
+            "Feriado nacional: Independencia de Guayaquil",
+            "Viernes: arranque de fin de semana",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-10",
+          "rule_based_price": 232.4,
+          "optimal_price": 300.77,
+          "projected_occupancy": 0.58,
+          "demand_score": 79,
+          "explanation": [
+            "Fin de semana largo por feriado cercano",
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-11",
+          "rule_based_price": 192.8,
+          "optimal_price": 249.09,
+          "projected_occupancy": 0.481,
+          "demand_score": 57,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-12",
+          "rule_based_price": 183.8,
+          "optimal_price": 237.34,
+          "projected_occupancy": 0.458,
+          "demand_score": 52,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-13",
+          "rule_based_price": 183.8,
+          "optimal_price": 237.34,
+          "projected_occupancy": 0.458,
+          "demand_score": 52,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-14",
+          "rule_based_price": 183.8,
+          "optimal_price": 237.34,
+          "projected_occupancy": 0.458,
+          "demand_score": 52,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-15",
+          "rule_based_price": 192.8,
+          "optimal_price": 249.09,
+          "projected_occupancy": 0.481,
+          "demand_score": 57,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-16",
+          "rule_based_price": 207.2,
+          "optimal_price": 267.88,
+          "projected_occupancy": 0.517,
+          "demand_score": 65,
+          "explanation": [
+            "Viernes: arranque de fin de semana",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-17",
+          "rule_based_price": 214.4,
+          "optimal_price": 277.28,
+          "projected_occupancy": 0.535,
+          "demand_score": 69,
+          "explanation": [
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-18",
+          "rule_based_price": 192.8,
+          "optimal_price": 249.09,
+          "projected_occupancy": 0.481,
+          "demand_score": 57,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-19",
+          "rule_based_price": 183.8,
+          "optimal_price": 237.34,
+          "projected_occupancy": 0.458,
+          "demand_score": 52,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quito-centro",
+      "name": "Casa Colonial San Blas",
+      "city": "Quito",
+      "region": "sierra",
+      "base_price": 90.0,
+      "pricing": [
+        {
+          "date": "2026-09-05",
+          "rule_based_price": 104.04,
+          "optimal_price": 124.79,
+          "projected_occupancy": 0.54,
+          "demand_score": 66,
+          "explanation": [
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-06",
+          "rule_based_price": 93.24,
+          "optimal_price": 112.18,
+          "projected_occupancy": 0.486,
+          "demand_score": 54,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-07",
+          "rule_based_price": 88.74,
+          "optimal_price": 106.92,
+          "projected_occupancy": 0.463,
+          "demand_score": 49,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-08",
+          "rule_based_price": 88.74,
+          "optimal_price": 106.92,
+          "projected_occupancy": 0.463,
+          "demand_score": 49,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-09",
+          "rule_based_price": 88.74,
+          "optimal_price": 106.92,
+          "projected_occupancy": 0.463,
+          "demand_score": 49,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-10",
+          "rule_based_price": 93.24,
+          "optimal_price": 112.18,
+          "projected_occupancy": 0.486,
+          "demand_score": 54,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-11",
+          "rule_based_price": 100.44,
+          "optimal_price": 120.59,
+          "projected_occupancy": 0.522,
+          "demand_score": 62,
+          "explanation": [
+            "Viernes: arranque de fin de semana",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-12",
+          "rule_based_price": 104.04,
+          "optimal_price": 124.79,
+          "projected_occupancy": 0.54,
+          "demand_score": 66,
+          "explanation": [
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-13",
+          "rule_based_price": 93.24,
+          "optimal_price": 112.18,
+          "projected_occupancy": 0.486,
+          "demand_score": 54,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-14",
+          "rule_based_price": 88.74,
+          "optimal_price": 106.92,
+          "projected_occupancy": 0.463,
+          "demand_score": 49,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-15",
+          "rule_based_price": 88.74,
+          "optimal_price": 106.92,
+          "projected_occupancy": 0.463,
+          "demand_score": 49,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-16",
+          "rule_based_price": 88.74,
+          "optimal_price": 106.92,
+          "projected_occupancy": 0.463,
+          "demand_score": 49,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-17",
+          "rule_based_price": 93.24,
+          "optimal_price": 112.18,
+          "projected_occupancy": 0.486,
+          "demand_score": 54,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-18",
+          "rule_based_price": 100.44,
+          "optimal_price": 120.59,
+          "projected_occupancy": 0.522,
+          "demand_score": 62,
+          "explanation": [
+            "Viernes: arranque de fin de semana",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-19",
+          "rule_based_price": 104.04,
+          "optimal_price": 124.79,
+          "projected_occupancy": 0.54,
+          "demand_score": 66,
+          "explanation": [
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-20",
+          "rule_based_price": 93.24,
+          "optimal_price": 112.18,
+          "projected_occupancy": 0.486,
+          "demand_score": 54,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-21",
+          "rule_based_price": 88.74,
+          "optimal_price": 106.92,
+          "projected_occupancy": 0.463,
+          "demand_score": 49,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-22",
+          "rule_based_price": 88.74,
+          "optimal_price": 106.92,
+          "projected_occupancy": 0.463,
+          "demand_score": 49,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-23",
+          "rule_based_price": 88.74,
+          "optimal_price": 106.92,
+          "projected_occupancy": 0.463,
+          "demand_score": 49,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-24",
+          "rule_based_price": 93.24,
+          "optimal_price": 112.18,
+          "projected_occupancy": 0.486,
+          "demand_score": 54,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-25",
+          "rule_based_price": 100.44,
+          "optimal_price": 120.59,
+          "projected_occupancy": 0.522,
+          "demand_score": 62,
+          "explanation": [
+            "Viernes: arranque de fin de semana",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-26",
+          "rule_based_price": 104.04,
+          "optimal_price": 124.79,
+          "projected_occupancy": 0.54,
+          "demand_score": 66,
+          "explanation": [
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-27",
+          "rule_based_price": 93.24,
+          "optimal_price": 112.18,
+          "projected_occupancy": 0.486,
+          "demand_score": 54,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-28",
+          "rule_based_price": 88.74,
+          "optimal_price": 106.92,
+          "projected_occupancy": 0.463,
+          "demand_score": 49,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-29",
+          "rule_based_price": 88.74,
+          "optimal_price": 106.92,
+          "projected_occupancy": 0.463,
+          "demand_score": 49,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-09-30",
+          "rule_based_price": 88.74,
+          "optimal_price": 106.92,
+          "projected_occupancy": 0.463,
+          "demand_score": 49,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-01",
+          "rule_based_price": 93.24,
+          "optimal_price": 112.18,
+          "projected_occupancy": 0.486,
+          "demand_score": 54,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-02",
+          "rule_based_price": 100.44,
+          "optimal_price": 120.59,
+          "projected_occupancy": 0.522,
+          "demand_score": 62,
+          "explanation": [
+            "Viernes: arranque de fin de semana",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-03",
+          "rule_based_price": 104.04,
+          "optimal_price": 124.79,
+          "projected_occupancy": 0.54,
+          "demand_score": 66,
+          "explanation": [
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-04",
+          "rule_based_price": 93.24,
+          "optimal_price": 112.18,
+          "projected_occupancy": 0.486,
+          "demand_score": 54,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-05",
+          "rule_based_price": 88.74,
+          "optimal_price": 106.92,
+          "projected_occupancy": 0.463,
+          "demand_score": 49,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-06",
+          "rule_based_price": 88.74,
+          "optimal_price": 106.92,
+          "projected_occupancy": 0.463,
+          "demand_score": 49,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-07",
+          "rule_based_price": 88.74,
+          "optimal_price": 106.92,
+          "projected_occupancy": 0.463,
+          "demand_score": 49,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-08",
+          "rule_based_price": 102.24,
+          "optimal_price": 122.69,
+          "projected_occupancy": 0.531,
+          "demand_score": 64,
+          "explanation": [
+            "Fin de semana largo por feriado cercano",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-09",
+          "rule_based_price": 122.94,
+          "optimal_price": 146.86,
+          "projected_occupancy": 0.636,
+          "demand_score": 87,
+          "explanation": [
+            "Feriado nacional: Independencia de Guayaquil",
+            "Viernes: arranque de fin de semana",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-10",
+          "rule_based_price": 113.04,
+          "optimal_price": 135.3,
+          "projected_occupancy": 0.586,
+          "demand_score": 76,
+          "explanation": [
+            "Fin de semana largo por feriado cercano",
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-11",
+          "rule_based_price": 93.24,
+          "optimal_price": 112.18,
+          "projected_occupancy": 0.486,
+          "demand_score": 54,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-12",
+          "rule_based_price": 88.74,
+          "optimal_price": 106.92,
+          "projected_occupancy": 0.463,
+          "demand_score": 49,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-13",
+          "rule_based_price": 88.74,
+          "optimal_price": 106.92,
+          "projected_occupancy": 0.463,
+          "demand_score": 49,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-14",
+          "rule_based_price": 88.74,
+          "optimal_price": 106.92,
+          "projected_occupancy": 0.463,
+          "demand_score": 49,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-15",
+          "rule_based_price": 93.24,
+          "optimal_price": 112.18,
+          "projected_occupancy": 0.486,
+          "demand_score": 54,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-16",
+          "rule_based_price": 100.44,
+          "optimal_price": 120.59,
+          "projected_occupancy": 0.522,
+          "demand_score": 62,
+          "explanation": [
+            "Viernes: arranque de fin de semana",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-17",
+          "rule_based_price": 104.04,
+          "optimal_price": 124.79,
+          "projected_occupancy": 0.54,
+          "demand_score": 66,
+          "explanation": [
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-18",
+          "rule_based_price": 93.24,
+          "optimal_price": 112.18,
+          "projected_occupancy": 0.486,
+          "demand_score": 54,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        },
+        {
+          "date": "2026-10-19",
+          "rule_based_price": 88.74,
+          "optimal_price": 106.92,
+          "projected_occupancy": 0.463,
+          "demand_score": 49,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cuenca-rio",
+      "name": "Posada del Río Tomebamba",
+      "city": "Cuenca",
+      "region": "sierra",
+      "base_price": 75.0,
+      "pricing": [
+        {
+          "date": "2026-09-05",
+          "rule_based_price": 89.67,
+          "optimal_price": 112.11,
+          "projected_occupancy": 0.548,
+          "demand_score": 70,
+          "explanation": [
+            "Sábado: pico de ocupación semanal",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-09-06",
+          "rule_based_price": 80.67,
+          "optimal_price": 100.99,
+          "projected_occupancy": 0.494,
+          "demand_score": 58,
+          "explanation": [
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-09-07",
+          "rule_based_price": 76.92,
+          "optimal_price": 96.35,
+          "projected_occupancy": 0.471,
+          "demand_score": 53,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-09-08",
+          "rule_based_price": 76.92,
+          "optimal_price": 96.35,
+          "projected_occupancy": 0.471,
+          "demand_score": 53,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-09-09",
+          "rule_based_price": 76.92,
+          "optimal_price": 96.35,
+          "projected_occupancy": 0.471,
+          "demand_score": 53,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-09-10",
+          "rule_based_price": 80.67,
+          "optimal_price": 100.99,
+          "projected_occupancy": 0.494,
+          "demand_score": 58,
+          "explanation": [
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-09-11",
+          "rule_based_price": 86.67,
+          "optimal_price": 108.4,
+          "projected_occupancy": 0.53,
+          "demand_score": 66,
+          "explanation": [
+            "Viernes: arranque de fin de semana",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-09-12",
+          "rule_based_price": 89.67,
+          "optimal_price": 112.11,
+          "projected_occupancy": 0.548,
+          "demand_score": 70,
+          "explanation": [
+            "Sábado: pico de ocupación semanal",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-09-13",
+          "rule_based_price": 80.67,
+          "optimal_price": 100.99,
+          "projected_occupancy": 0.494,
+          "demand_score": 58,
+          "explanation": [
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-09-14",
+          "rule_based_price": 76.92,
+          "optimal_price": 96.35,
+          "projected_occupancy": 0.471,
+          "demand_score": 53,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-09-15",
+          "rule_based_price": 76.92,
+          "optimal_price": 96.35,
+          "projected_occupancy": 0.471,
+          "demand_score": 53,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-09-16",
+          "rule_based_price": 76.92,
+          "optimal_price": 96.35,
+          "projected_occupancy": 0.471,
+          "demand_score": 53,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-09-17",
+          "rule_based_price": 80.67,
+          "optimal_price": 100.99,
+          "projected_occupancy": 0.494,
+          "demand_score": 58,
+          "explanation": [
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-09-18",
+          "rule_based_price": 86.67,
+          "optimal_price": 108.4,
+          "projected_occupancy": 0.53,
+          "demand_score": 66,
+          "explanation": [
+            "Viernes: arranque de fin de semana",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-09-19",
+          "rule_based_price": 89.67,
+          "optimal_price": 112.11,
+          "projected_occupancy": 0.548,
+          "demand_score": 70,
+          "explanation": [
+            "Sábado: pico de ocupación semanal",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-09-20",
+          "rule_based_price": 80.67,
+          "optimal_price": 100.99,
+          "projected_occupancy": 0.494,
+          "demand_score": 58,
+          "explanation": [
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-09-21",
+          "rule_based_price": 76.92,
+          "optimal_price": 96.35,
+          "projected_occupancy": 0.471,
+          "demand_score": 53,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-09-22",
+          "rule_based_price": 76.92,
+          "optimal_price": 96.35,
+          "projected_occupancy": 0.471,
+          "demand_score": 53,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-09-23",
+          "rule_based_price": 76.92,
+          "optimal_price": 96.35,
+          "projected_occupancy": 0.471,
+          "demand_score": 53,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-09-24",
+          "rule_based_price": 80.67,
+          "optimal_price": 100.99,
+          "projected_occupancy": 0.494,
+          "demand_score": 58,
+          "explanation": [
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-09-25",
+          "rule_based_price": 86.67,
+          "optimal_price": 108.4,
+          "projected_occupancy": 0.53,
+          "demand_score": 66,
+          "explanation": [
+            "Viernes: arranque de fin de semana",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-09-26",
+          "rule_based_price": 89.67,
+          "optimal_price": 112.11,
+          "projected_occupancy": 0.548,
+          "demand_score": 70,
+          "explanation": [
+            "Sábado: pico de ocupación semanal",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-09-27",
+          "rule_based_price": 80.67,
+          "optimal_price": 100.99,
+          "projected_occupancy": 0.494,
+          "demand_score": 58,
+          "explanation": [
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-09-28",
+          "rule_based_price": 76.92,
+          "optimal_price": 96.35,
+          "projected_occupancy": 0.471,
+          "demand_score": 53,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-09-29",
+          "rule_based_price": 76.92,
+          "optimal_price": 96.35,
+          "projected_occupancy": 0.471,
+          "demand_score": 53,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-09-30",
+          "rule_based_price": 76.92,
+          "optimal_price": 96.35,
+          "projected_occupancy": 0.471,
+          "demand_score": 53,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-10-01",
+          "rule_based_price": 80.67,
+          "optimal_price": 100.99,
+          "projected_occupancy": 0.494,
+          "demand_score": 58,
+          "explanation": [
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-10-02",
+          "rule_based_price": 86.67,
+          "optimal_price": 108.4,
+          "projected_occupancy": 0.53,
+          "demand_score": 66,
+          "explanation": [
+            "Viernes: arranque de fin de semana",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-10-03",
+          "rule_based_price": 89.67,
+          "optimal_price": 112.11,
+          "projected_occupancy": 0.548,
+          "demand_score": 70,
+          "explanation": [
+            "Sábado: pico de ocupación semanal",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-10-04",
+          "rule_based_price": 80.67,
+          "optimal_price": 100.99,
+          "projected_occupancy": 0.494,
+          "demand_score": 58,
+          "explanation": [
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-10-05",
+          "rule_based_price": 76.92,
+          "optimal_price": 96.35,
+          "projected_occupancy": 0.471,
+          "demand_score": 53,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-10-06",
+          "rule_based_price": 76.92,
+          "optimal_price": 96.35,
+          "projected_occupancy": 0.471,
+          "demand_score": 53,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-10-07",
+          "rule_based_price": 76.92,
+          "optimal_price": 96.35,
+          "projected_occupancy": 0.471,
+          "demand_score": 53,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-10-08",
+          "rule_based_price": 88.17,
+          "optimal_price": 110.25,
+          "projected_occupancy": 0.539,
+          "demand_score": 68,
+          "explanation": [
+            "Fin de semana largo por feriado cercano",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-10-09",
+          "rule_based_price": 105.42,
+          "optimal_price": 131.57,
+          "projected_occupancy": 0.643,
+          "demand_score": 91,
+          "explanation": [
+            "Feriado nacional: Independencia de Guayaquil",
+            "Viernes: arranque de fin de semana",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-10-10",
+          "rule_based_price": 97.17,
+          "optimal_price": 121.37,
+          "projected_occupancy": 0.593,
+          "demand_score": 80,
+          "explanation": [
+            "Fin de semana largo por feriado cercano",
+            "Sábado: pico de ocupación semanal",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-10-11",
+          "rule_based_price": 80.67,
+          "optimal_price": 100.99,
+          "projected_occupancy": 0.494,
+          "demand_score": 58,
+          "explanation": [
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-10-12",
+          "rule_based_price": 76.92,
+          "optimal_price": 96.35,
+          "projected_occupancy": 0.471,
+          "demand_score": 53,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-10-13",
+          "rule_based_price": 76.92,
+          "optimal_price": 96.35,
+          "projected_occupancy": 0.471,
+          "demand_score": 53,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-10-14",
+          "rule_based_price": 76.92,
+          "optimal_price": 96.35,
+          "projected_occupancy": 0.471,
+          "demand_score": 53,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-10-15",
+          "rule_based_price": 80.67,
+          "optimal_price": 100.99,
+          "projected_occupancy": 0.494,
+          "demand_score": 58,
+          "explanation": [
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-10-16",
+          "rule_based_price": 86.67,
+          "optimal_price": 108.4,
+          "projected_occupancy": 0.53,
+          "demand_score": 66,
+          "explanation": [
+            "Viernes: arranque de fin de semana",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-10-17",
+          "rule_based_price": 89.67,
+          "optimal_price": 112.11,
+          "projected_occupancy": 0.548,
+          "demand_score": 70,
+          "explanation": [
+            "Sábado: pico de ocupación semanal",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-10-18",
+          "rule_based_price": 80.67,
+          "optimal_price": 100.99,
+          "projected_occupancy": 0.494,
+          "demand_score": 58,
+          "explanation": [
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        },
+        {
+          "date": "2026-10-19",
+          "rule_based_price": 76.92,
+          "optimal_price": 96.35,
+          "projected_occupancy": 0.471,
+          "demand_score": 53,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Alto interés de búsqueda en Google para el destino"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "manta-malecon",
+      "name": "Manta Beach Suites",
+      "city": "Manta",
+      "region": "coast",
+      "base_price": 95.0,
+      "pricing": [
+        {
+          "date": "2026-09-05",
+          "rule_based_price": 127.2,
+          "optimal_price": 159.83,
+          "projected_occupancy": 0.612,
+          "demand_score": 84,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-06",
+          "rule_based_price": 115.8,
+          "optimal_price": 145.45,
+          "projected_occupancy": 0.557,
+          "demand_score": 72,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-07",
+          "rule_based_price": 111.05,
+          "optimal_price": 139.47,
+          "projected_occupancy": 0.534,
+          "demand_score": 67,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-08",
+          "rule_based_price": 111.05,
+          "optimal_price": 139.47,
+          "projected_occupancy": 0.534,
+          "demand_score": 67,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-09",
+          "rule_based_price": 111.05,
+          "optimal_price": 139.47,
+          "projected_occupancy": 0.534,
+          "demand_score": 67,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-10",
+          "rule_based_price": 115.8,
+          "optimal_price": 145.45,
+          "projected_occupancy": 0.557,
+          "demand_score": 72,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-11",
+          "rule_based_price": 123.4,
+          "optimal_price": 155.04,
+          "projected_occupancy": 0.594,
+          "demand_score": 80,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Viernes: arranque de fin de semana",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-12",
+          "rule_based_price": 127.2,
+          "optimal_price": 159.83,
+          "projected_occupancy": 0.612,
+          "demand_score": 84,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-13",
+          "rule_based_price": 115.8,
+          "optimal_price": 145.45,
+          "projected_occupancy": 0.557,
+          "demand_score": 72,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-14",
+          "rule_based_price": 111.05,
+          "optimal_price": 139.47,
+          "projected_occupancy": 0.534,
+          "demand_score": 67,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-15",
+          "rule_based_price": 111.05,
+          "optimal_price": 139.47,
+          "projected_occupancy": 0.534,
+          "demand_score": 67,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-16",
+          "rule_based_price": 111.05,
+          "optimal_price": 139.47,
+          "projected_occupancy": 0.534,
+          "demand_score": 67,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-17",
+          "rule_based_price": 115.8,
+          "optimal_price": 145.45,
+          "projected_occupancy": 0.557,
+          "demand_score": 72,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-18",
+          "rule_based_price": 123.4,
+          "optimal_price": 155.04,
+          "projected_occupancy": 0.594,
+          "demand_score": 80,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Viernes: arranque de fin de semana",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-19",
+          "rule_based_price": 127.2,
+          "optimal_price": 159.83,
+          "projected_occupancy": 0.612,
+          "demand_score": 84,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-20",
+          "rule_based_price": 115.8,
+          "optimal_price": 145.45,
+          "projected_occupancy": 0.557,
+          "demand_score": 72,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-21",
+          "rule_based_price": 111.05,
+          "optimal_price": 139.47,
+          "projected_occupancy": 0.534,
+          "demand_score": 67,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-22",
+          "rule_based_price": 111.05,
+          "optimal_price": 139.47,
+          "projected_occupancy": 0.534,
+          "demand_score": 67,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-23",
+          "rule_based_price": 111.05,
+          "optimal_price": 139.47,
+          "projected_occupancy": 0.534,
+          "demand_score": 67,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-24",
+          "rule_based_price": 115.8,
+          "optimal_price": 145.45,
+          "projected_occupancy": 0.557,
+          "demand_score": 72,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-25",
+          "rule_based_price": 123.4,
+          "optimal_price": 155.04,
+          "projected_occupancy": 0.594,
+          "demand_score": 80,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Viernes: arranque de fin de semana",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-26",
+          "rule_based_price": 127.2,
+          "optimal_price": 159.83,
+          "projected_occupancy": 0.612,
+          "demand_score": 84,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-27",
+          "rule_based_price": 115.8,
+          "optimal_price": 145.45,
+          "projected_occupancy": 0.557,
+          "demand_score": 72,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-28",
+          "rule_based_price": 111.05,
+          "optimal_price": 139.47,
+          "projected_occupancy": 0.534,
+          "demand_score": 67,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-29",
+          "rule_based_price": 111.05,
+          "optimal_price": 139.47,
+          "projected_occupancy": 0.534,
+          "demand_score": 67,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-09-30",
+          "rule_based_price": 111.05,
+          "optimal_price": 139.47,
+          "projected_occupancy": 0.534,
+          "demand_score": 67,
+          "explanation": [
+            "Avistamiento de ballenas jorobadas",
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-01",
+          "rule_based_price": 96.8,
+          "optimal_price": 121.5,
+          "projected_occupancy": 0.465,
+          "demand_score": 52,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-02",
+          "rule_based_price": 104.4,
+          "optimal_price": 131.08,
+          "projected_occupancy": 0.502,
+          "demand_score": 60,
+          "explanation": [
+            "Viernes: arranque de fin de semana",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-03",
+          "rule_based_price": 108.2,
+          "optimal_price": 135.87,
+          "projected_occupancy": 0.52,
+          "demand_score": 64,
+          "explanation": [
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-04",
+          "rule_based_price": 96.8,
+          "optimal_price": 121.5,
+          "projected_occupancy": 0.465,
+          "demand_score": 52,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-05",
+          "rule_based_price": 92.05,
+          "optimal_price": 115.51,
+          "projected_occupancy": 0.442,
+          "demand_score": 47,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-06",
+          "rule_based_price": 92.05,
+          "optimal_price": 115.51,
+          "projected_occupancy": 0.442,
+          "demand_score": 47,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-07",
+          "rule_based_price": 92.05,
+          "optimal_price": 115.51,
+          "projected_occupancy": 0.442,
+          "demand_score": 47,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-08",
+          "rule_based_price": 106.3,
+          "optimal_price": 133.48,
+          "projected_occupancy": 0.511,
+          "demand_score": 62,
+          "explanation": [
+            "Fin de semana largo por feriado cercano",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-09",
+          "rule_based_price": 128.15,
+          "optimal_price": 161.02,
+          "projected_occupancy": 0.617,
+          "demand_score": 85,
+          "explanation": [
+            "Feriado nacional: Independencia de Guayaquil",
+            "Viernes: arranque de fin de semana",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-10",
+          "rule_based_price": 117.7,
+          "optimal_price": 147.85,
+          "projected_occupancy": 0.566,
+          "demand_score": 74,
+          "explanation": [
+            "Fin de semana largo por feriado cercano",
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-11",
+          "rule_based_price": 96.8,
+          "optimal_price": 121.5,
+          "projected_occupancy": 0.465,
+          "demand_score": 52,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-12",
+          "rule_based_price": 92.05,
+          "optimal_price": 115.51,
+          "projected_occupancy": 0.442,
+          "demand_score": 47,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-13",
+          "rule_based_price": 92.05,
+          "optimal_price": 115.51,
+          "projected_occupancy": 0.442,
+          "demand_score": 47,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-14",
+          "rule_based_price": 92.05,
+          "optimal_price": 115.51,
+          "projected_occupancy": 0.442,
+          "demand_score": 47,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-15",
+          "rule_based_price": 96.8,
+          "optimal_price": 121.5,
+          "projected_occupancy": 0.465,
+          "demand_score": 52,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-16",
+          "rule_based_price": 104.4,
+          "optimal_price": 131.08,
+          "projected_occupancy": 0.502,
+          "demand_score": 60,
+          "explanation": [
+            "Viernes: arranque de fin de semana",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-17",
+          "rule_based_price": 108.2,
+          "optimal_price": 135.87,
+          "projected_occupancy": 0.52,
+          "demand_score": 64,
+          "explanation": [
+            "Sábado: pico de ocupación semanal",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-18",
+          "rule_based_price": 96.8,
+          "optimal_price": 121.5,
+          "projected_occupancy": 0.465,
+          "demand_score": 52,
+          "explanation": [
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        },
+        {
+          "date": "2026-10-19",
+          "rule_based_price": 92.05,
+          "optimal_price": 115.51,
+          "projected_occupancy": 0.442,
+          "demand_score": 47,
+          "explanation": [
+            "Entre semana: demanda base",
+            "Pronóstico de 7 días favorable (soleado y cálido)",
+            "Bajo interés de búsqueda reciente"
+          ]
+        }
+      ]
+    }
+  ],
+  "holidays": [
+    {
+      "date": "2026-10-09",
+      "name": "Independencia de Guayaquil"
+    },
+    {
+      "date": "2026-11-02",
+      "name": "Día de los Difuntos"
+    },
+    {
+      "date": "2026-11-03",
+      "name": "Independencia de Cuenca"
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Navidad"
+    },
+    {
+      "date": "2027-01-01",
+      "name": "Año Nuevo"
+    },
+    {
+      "date": "2027-02-08",
+      "name": "Carnaval (lunes)"
+    },
+    {
+      "date": "2027-02-09",
+      "name": "Carnaval (martes)"
+    },
+    {
+      "date": "2027-03-26",
+      "name": "Viernes Santo"
+    },
+    {
+      "date": "2027-05-01",
+      "name": "Día del Trabajo"
+    },
+    {
+      "date": "2027-05-24",
+      "name": "Batalla de Pichincha"
+    },
+    {
+      "date": "2027-08-10",
+      "name": "Primer Grito de Independencia"
+    },
+    {
+      "date": "2027-10-09",
+      "name": "Independencia de Guayaquil"
+    },
+    {
+      "date": "2027-11-02",
+      "name": "Día de los Difuntos"
+    },
+    {
+      "date": "2027-11-03",
+      "name": "Independencia de Cuenca"
+    },
+    {
+      "date": "2027-12-25",
+      "name": "Navidad"
+    }
+  ],
+  "seasons": [
+    {
+      "name": "Avistamiento de ballenas jorobadas",
+      "region": "coast",
+      "demand_weight": 0.2,
+      "note": "Pico de visitantes a Puerto López y el Parque Nacional Machalilla."
+    },
+    {
+      "name": "Temporada alta Galápagos",
+      "region": "insular",
+      "demand_weight": 0.18,
+      "note": "Mejor visibilidad submarina y clima templado en las islas."
+    },
+    {
+      "name": "Temporada alta Galápagos (fin de año)",
+      "region": "insular",
+      "demand_weight": 0.22,
+      "note": "Vacaciones de fin de año, alta demanda de cruceros y hoteles."
+    },
+    {
+      "name": "Vacaciones escolares Sierra",
+      "region": "sierra",
+      "demand_weight": 0.12,
+      "note": "Turismo interno familiar hacia Costa e Insular."
+    },
+    {
+      "name": "Vacaciones escolares Costa",
+      "region": "coast",
+      "demand_weight": 0.1,
+      "note": "Turismo interno familiar hacia Sierra y feriados de Carnaval."
+    }
+  ]
+}

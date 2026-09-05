@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ecuador Revenue AI — Pricing predictivo para hoteles</title>
+  <meta name="description" content="Motor de revenue management con IA para hoteles boutique en Ecuador: feriados, temporadas turísticas, clima y tendencias de búsqueda en tiempo real." />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap topbar-inner">
+      <div class="brand">Ecuador Revenue <span>AI</span></div>
+      <a class="cta" href="https://github.com/fleremiasflemin20-maker/ecuador-revenue-ai" target="_blank" rel="noopener">Ver código en GitHub</a>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="wrap">
+      <h1>Pricing dinámico entrenado con la estacionalidad real de Ecuador</h1>
+      <p class="lede">
+        Feriados nacionales, temporada de ballenas, temporada alta de Galápagos, clima en vivo
+        y tendencias de búsqueda en Google se combinan en un motor de IA que sugiere el precio
+        óptimo noche a noche — algo que Booking y Expedia no ofrecen a hoteles independientes.
+      </p>
+      <div id="status" class="status">Cargando datos en vivo desde la API…</div>
+    </div>
+  </section>
+
+  <section class="wrap controls">
+    <label for="hotel-select">Hotel demo</label>
+    <select id="hotel-select"></select>
+  </section>
+
+  <section class="wrap cards" id="summary-cards"></section>
+
+  <section class="wrap chart-block">
+    <h2>Precio sugerido — próximos días</h2>
+    <p class="muted">Regla de negocio (transparente) vs. precio óptimo estimado por el modelo de elasticidad de demanda.</p>
+    <canvas id="priceChart" height="110"></canvas>
+  </section>
+
+  <section class="wrap chart-block">
+    <h2>Índice de demanda diario</h2>
+    <p class="muted">0-40 demanda baja · 40-65 normal · 65-100 alta demanda (feriados, temporada, clima, búsquedas).</p>
+    <canvas id="demandChart" height="90"></canvas>
+  </section>
+
+  <section class="wrap day-detail">
+    <h2>¿Por qué este precio?</h2>
+    <p class="muted">Selecciona un día en la tabla para ver el razonamiento del modelo.</p>
+    <div class="table-wrap">
+      <table id="pricing-table">
+        <thead>
+          <tr><th>Fecha</th><th>Precio regla</th><th>Precio óptimo IA</th><th>Ocupación proy.</th><th>Demanda</th></tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <div id="explanation-panel" class="explanation-panel"></div>
+  </section>
+
+  <section class="wrap signals-block">
+    <h2>Señales que alimentan el modelo</h2>
+    <div class="signals-grid">
+      <div class="signal-card">
+        <h3>Feriados nacionales</h3>
+        <p>Calculados algorítmicamente (incluye Semana Santa y Carnaval vía la fecha de Pascua), no una lista estática.</p>
+      </div>
+      <div class="signal-card">
+        <h3>Temporadas turísticas</h3>
+        <p>Avistamiento de ballenas, temporada alta de Galápagos y vacaciones escolares por región.</p>
+      </div>
+      <div class="signal-card">
+        <h3>Clima en vivo</h3>
+        <p>Pronóstico de 7 días vía Open-Meteo para el destino del hotel.</p>
+      </div>
+      <div class="signal-card">
+        <h3>Tendencias de búsqueda</h3>
+        <p>Interés de búsqueda en Google Trends para el destino, últimos 30 días.</p>
+      </div>
+    </div>
+    <p class="disclaimer">
+      Los hoteles y precios base de este demo son ilustrativos. Las señales de feriados, clima y
+      tendencias son datos reales en vivo. El modelo de elasticidad de demanda se entrena sobre
+      historia sintética hasta conectar un PMS real — ver <code>README.md</code> para el roadmap.
+    </p>
+  </section>
+
+  <footer class="wrap footer">
+    <p>Construido como propuesta de producto para inversores hoteleros y gastronómicos en Ecuador.</p>
+  </footer>
+
+  <script src="js/vendor/chart.umd.min.js"></script>
+  <script src="js/config.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
