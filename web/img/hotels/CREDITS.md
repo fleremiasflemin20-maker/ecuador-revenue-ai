@@ -15,6 +15,18 @@ del destino/lugar.
 | finch-bay.jpg | Academy Bay, Isla Santa Cruz, Galápagos Islands | Pi3.124 | CC BY-SA 4.0 |
 | golden-bay.jpg | A few hours ashore at Puerto Baquerizo Moreno on Isla San Cristóbal | Murray Foubister | CC BY-SA 2.0 |
 | sacha-lodge.jpg | Kanutourismus Río Cuyabeno, Ecuador | Hanspeter Bellers | CC BY-SA 4.0 |
+| illa-experience.jpg | Quito Plaza Independencia | Cayambe | CC BY-SA 3.0 |
+| patio-andaluz.jpg | Plaza Grande - Quito | Ángel M. Felicísimo | CC BY-SA 4.0 |
+| jw-marriott-quito.jpg | Quito (Parque La Carolina) pic.1000 | David Adam Kess | CC BY-SA 4.0 |
+| hilton-colon-quito.jpg | Quito (Parque La Carolina) pic.200 | David Adam Kess | CC BY-SA 4.0 |
+| mashpi-lodge.jpg | Reserva ecológica Mashpi | Andrea CriolloC | CC BY-SA 4.0 |
+| hosteria-la-cienega.jpg | Cotopaxi 01 | Bernard Gagnon | CC BY-SA 3.0 |
+| samari-spa.jpg | Baños de Agua Santa, Blick von Nordwesten | Fährtenleser | CC BY-SA 4.0 |
+| oro-verde-guayaquil.jpg | Vista del Malecón 2000 | Freddy eduardo | CC BY-SA 4.0 |
+| hilton-colon-guayaquil.jpg | Sector central del Malecón 2000 | Freddy eduardo | CC BY-SA 4.0 |
+| wyndham-guayaquil.jpg | Puerto Santa Ana, Guayaquil, Guayas, Ecuador | Wikimedia contributor | CC0 |
+| hotel-santa-lucia.jpg | Cuenca, Parque Calderón | Johannes Wagenknecht | CC BY-SA 4.0 |
+| pikaia-lodge.jpg | Gigantic Turtle on the Island of Santa Cruz in the Galapagos | David Adam Kess | CC BY-SA 3.0 |
 
 Fuente: [commons.wikimedia.org](https://commons.wikimedia.org). Todas requieren
 atribución al reutilizarse; este archivo cumple ese requisito.
