@@ -9,6 +9,8 @@ class HotelOut(BaseModel):
     city: str
     region: str
     base_price: float
+    image: str
+    blurb: str
 
 
 class DailyPricingOut(BaseModel):

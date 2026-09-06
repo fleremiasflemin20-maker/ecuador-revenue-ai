@@ -27,10 +27,13 @@
     </div>
   </section>
 
-  <section class="wrap controls">
-    <label for="hotel-select">Hotel demo</label>
-    <select id="hotel-select"></select>
+  <section class="wrap hotel-gallery-block">
+    <h2>Elige un hotel</h2>
+    <p class="muted">8 hoteles reales de Ecuador. Haz clic en uno para ver su pricing.</p>
+    <div class="hotel-gallery" id="hotel-gallery"></div>
   </section>
+
+  <section class="wrap selected-hotel" id="selected-hotel"></section>
 
   <section class="wrap cards" id="summary-cards"></section>
 
@@ -85,6 +88,8 @@
       publicadas verificadas. Las señales de feriados, clima y
       tendencias son datos reales en vivo. El modelo de elasticidad de demanda se entrena sobre
       historia sintética hasta conectar un PMS real — ver <code>README.md</code> para el roadmap.
+      Fotos con licencia libre (Wikimedia Commons), representativas del destino —
+      <a href="https://github.com/fleremiasflemin20-maker/ecuador-revenue-ai/blob/main/web/img/hotels/CREDITS.md" target="_blank" rel="noopener">créditos aquí</a>.
     </p>
   </section>
 

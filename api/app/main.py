@@ -31,7 +31,10 @@ def health() -> dict[str, str]:
 @app.get("/hotels", response_model=list[schemas.HotelOut])
 def list_hotels() -> list[schemas.HotelOut]:
     return [
-        schemas.HotelOut(id=h.id, name=h.name, city=h.city, region=h.region, base_price=h.base_price)
+        schemas.HotelOut(
+            id=h.id, name=h.name, city=h.city, region=h.region,
+            base_price=h.base_price, image=h.image, blurb=h.blurb,
+        )
         for h in HOTELS
     ]
 

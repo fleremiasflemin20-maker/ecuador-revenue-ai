@@ -35,6 +35,8 @@ def build_snapshot() -> dict:
                 "city": hotel.city,
                 "region": hotel.region,
                 "base_price": hotel.base_price,
+                "image": hotel.image,
+                "blurb": hotel.blurb,
                 "pricing": [
                     {
                         "date": p.day.isoformat(),

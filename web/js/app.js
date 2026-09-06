@@ -7,7 +7,8 @@ const state = {
 
 const els = {
   status: document.getElementById("status"),
-  select: document.getElementById("hotel-select"),
+  gallery: document.getElementById("hotel-gallery"),
+  selectedHotel: document.getElementById("selected-hotel"),
   cards: document.getElementById("summary-cards"),
   tableBody: document.querySelector("#pricing-table tbody"),
   explanation: document.getElementById("explanation-panel"),
@@ -46,12 +47,27 @@ async function init() {
     els.status.classList.add("status-demo");
   }
 
-  els.select.innerHTML = state.hotels
-    .map((h) => `<option value="${h.id}">${h.name} — ${h.city}</option>`)
-    .join("");
-  els.select.addEventListener("change", () => renderHotel(els.select.value));
-
+  renderGallery();
   renderHotel(state.hotels[0].id);
+}
+
+function renderGallery() {
+  els.gallery.innerHTML = state.hotels
+    .map(
+      (h) => `
+      <button class="hotel-card" data-id="${h.id}" aria-pressed="false">
+        <img src="${h.image}" alt="${h.city}" loading="lazy" />
+        <div class="hotel-card-body">
+          <span class="hotel-card-name">${h.name}</span>
+          <span class="hotel-card-city">${h.city}</span>
+        </div>
+      </button>`
+    )
+    .join("");
+
+  els.gallery.querySelectorAll(".hotel-card").forEach((card) => {
+    card.addEventListener("click", () => renderHotel(card.dataset.id));
+  });
 }
 
 async function getPricing(hotelId) {
@@ -64,6 +80,21 @@ async function getPricing(hotelId) {
 async function renderHotel(hotelId) {
   const hotel = state.hotels.find((h) => h.id === hotelId);
   const pricing = await getPricing(hotelId);
+
+  els.gallery.querySelectorAll(".hotel-card").forEach((card) => {
+    const isSelected = card.dataset.id === hotelId;
+    card.classList.toggle("selected", isSelected);
+    card.setAttribute("aria-pressed", String(isSelected));
+  });
+
+  els.selectedHotel.innerHTML = `
+    <img src="${hotel.image}" alt="${hotel.city}" class="selected-hotel-img" />
+    <div>
+      <h3>${hotel.name}</h3>
+      <p class="muted">${hotel.city}</p>
+      <p>${hotel.blurb}</p>
+    </div>
+  `;
 
   renderCards(hotel, pricing);
   renderPriceChart(pricing);

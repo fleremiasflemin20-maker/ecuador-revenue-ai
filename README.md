@@ -46,8 +46,9 @@ una foto reciente generada por el mismo motor — nunca datos inventados aparte.
 | Temporadas turísticas | **Real** (ventanas declaradas) | Patrones públicos de turismo (ballenas, Galápagos, vacaciones escolares) |
 | Clima 7 días | **Real, en vivo** | [Open-Meteo](https://open-meteo.com) (gratis, sin API key) |
 | Tendencias de búsqueda | **Real, en vivo** (best-effort) | Google Trends vía `pytrends`, con fallback neutro si Google bloquea la consulta |
-| Catálogo de hoteles | Real (nombre, ciudad, ubicación) | 8 hoteles reales de Ecuador (Casa Gangotena, Hacienda Zuleta, Mansión Alcázar, Casa Ceibo, Mantaraya Lodge, Finch Bay, Golden Bay, Sacha Lodge) |
-| Precio base por hotel | **Estimado, sin verificar** | Referencia de mercado para la demo — no es la tarifa publicada actual del hotel |
+| Catálogo de hoteles | Real (nombre, ciudad, ubicación) | 8 hoteles reales de Ecuador (Casa Gangotena — Quito, Hacienda Zuleta — Imbabura, Mansión Alcázar — Cuenca, Casa Ceibo — Bahía de Caráquez, Mantaraya Lodge — Puerto López, Finch Bay — Galápagos, Golden Bay — Galápagos, Sacha Lodge — Amazonía) |
+| Precio base por hotel | Aproximado a tarifa pública vigente (sept. 2026) | Obtenido vía buscadores/agregadores de reserva, no confirmado directamente con cada hotel — varía por temporada |
+| Fotos de cada hotel | Wikimedia Commons, licencia libre | Fotos representativas del destino, no fotografía oficial del hotel (esa es propiedad de cada hotel) — créditos en `web/img/hotels/CREDITS.md` |
 | Ocupación histórica / elasticidad | Simulado | Historia sintética de 2 años (ver `api/app/demo_data.py`) hasta conectar un PMS real |
 
 ## El modelo
