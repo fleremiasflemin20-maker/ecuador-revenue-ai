@@ -46,7 +46,8 @@ una foto reciente generada por el mismo motor — nunca datos inventados aparte.
 | Temporadas turísticas | **Real** (ventanas declaradas) | Patrones públicos de turismo (ballenas, Galápagos, vacaciones escolares) |
 | Clima 7 días | **Real, en vivo** | [Open-Meteo](https://open-meteo.com) (gratis, sin API key) |
 | Tendencias de búsqueda | **Real, en vivo** (best-effort) | Google Trends vía `pytrends`, con fallback neutro si Google bloquea la consulta |
-| Catálogo de hoteles y precio base | Ilustrativo | Demo con 5 hoteles ficticios en Puerto López, Galápagos, Quito, Cuenca y Manta |
+| Catálogo de hoteles | Real (nombre, ciudad, ubicación) | 8 hoteles reales de Ecuador (Casa Gangotena, Hacienda Zuleta, Mansión Alcázar, Casa Ceibo, Mantaraya Lodge, Finch Bay, Golden Bay, Sacha Lodge) |
+| Precio base por hotel | **Estimado, sin verificar** | Referencia de mercado para la demo — no es la tarifa publicada actual del hotel |
 | Ocupación histórica / elasticidad | Simulado | Historia sintética de 2 años (ver `api/app/demo_data.py`) hasta conectar un PMS real |
 
 ## El modelo
